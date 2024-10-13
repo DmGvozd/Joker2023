@@ -1,0 +1,7 @@
+Fuzz Testing Report
+===================
+
+No bugs found during fuzzing.
+
+Potential parser issues:
+- Syntax error in parsed HTML code supplied to analyzer
